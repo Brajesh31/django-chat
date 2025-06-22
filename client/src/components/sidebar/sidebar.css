@@ -1,0 +1,20 @@
+.user-list-container {
+  overflow: auto;
+  overflow-x: hidden;
+  height: 80vh;
+}
+.chat-online {
+  color: #34ce57;
+}
+.chat-offline {
+  color: #e4606d;
+}
+.list-group-item {
+  padding: 0.4rem 1.25rem;
+  font-size: 10pt;
+}
+.list-group-item-action:focus,
+.list-group-item-action:hover,
+.active-chat {
+  background-color: #fff3cd;
+}
