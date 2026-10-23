@@ -22,4 +22,4 @@ To install this app please follow this below steps:
 
 Now you'll be redirected to `localhost:3000` Then open two browser window and do the signup with name, email, profile image and start chatting from two different window. 
 
-Last updated: 2026-10-23 13:06 UTC
+Last updated: 2026-10-23 18:06 UTC
